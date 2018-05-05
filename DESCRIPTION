@@ -11,7 +11,7 @@ Description: An infra-structure for estimating the predictive performance of
     workflows that allow the usage of any available R modeling algorithm together
     with some pre-defined data pre-processing steps and also prediction post-
     processing methods. It also provides means for addressing issues related with
-    the statistical significance of the observed differences.
+    the statistical significance of the observed differences!
 Version: 1.1.1
 Depends:
     R(>= 3.0),
